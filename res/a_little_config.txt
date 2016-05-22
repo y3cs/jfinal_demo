@@ -1,0 +1,16 @@
+jdbcUrl = jdbc:mysql://localhost:3306/ldmarketing
+user = ldmarketing
+password =root
+devMode = true
+
+
+# 微信服务器回调所用的 token
+#token=__my__token__
+
+# 测试用的账号
+#appId=wxeb81cab5fde12d51
+#appSecret=44ed1b780999abda71b461b72cb28bab
+
+#是否对消息进行加密，是否对消息进行加密，对应于微信平台的消息加解密方式，false支持明文模式及兼容模式，true支持安全模式及兼容模式
+#encryptMessage=true
+#encodingAesKey=yourEncodingAesKey
